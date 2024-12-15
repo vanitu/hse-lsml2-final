@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/125173326496115436/9ee59f47d8f04c8091e03d7cad8d5529/artifacts
+deleted_time: 1734291463069
+end_time: null
+entry_point_name: ''
+experiment_id: '125173326496115436'
+lifecycle_stage: deleted
+run_id: 9ee59f47d8f04c8091e03d7cad8d5529
+run_name: yolo11Nano
+run_uuid: 9ee59f47d8f04c8091e03d7cad8d5529
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734290950064
+status: 1
+tags: []
+user_id: vanitu

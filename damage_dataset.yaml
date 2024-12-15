@@ -1,0 +1,11 @@
+
+path: damage_yolo # dataset root dir
+train: train # train images (relative to 'path') 4 images
+val: valid # val images (relative to 'path') 4 images
+
+# Classes (4 classes)
+names:
+    0: Dent
+    1: Scratch_or_spot
+    2: Shatter
+    3: Tear

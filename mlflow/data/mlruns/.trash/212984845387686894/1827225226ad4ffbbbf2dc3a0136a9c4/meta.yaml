@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/212984845387686894/1827225226ad4ffbbbf2dc3a0136a9c4/artifacts
+deleted_time: 1734290772481
+end_time: 1734289564120
+entry_point_name: ''
+experiment_id: '212984845387686894'
+lifecycle_stage: deleted
+run_id: 1827225226ad4ffbbbf2dc3a0136a9c4
+run_name: righteous-mole-306
+run_uuid: 1827225226ad4ffbbbf2dc3a0136a9c4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734289562693
+status: 3
+tags: []
+user_id: vanitu

@@ -1,0 +1,13 @@
+version: "3.7"
+
+services:
+  mlflow:
+    build: mlflow
+    ports:
+      - 5001:5001
+    volumes:
+      - ./mlflow/data:/mldata
+  webapp:
+    build: web_app
+    ports:
+      - 8501:8501
