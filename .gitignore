@@ -1,1 +1,4 @@
 datasets/
+damage_detection_yolo/
+runs/
+yolo11n.pt
