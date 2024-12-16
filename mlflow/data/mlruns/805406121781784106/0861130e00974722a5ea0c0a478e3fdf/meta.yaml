@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/805406121781784106/0861130e00974722a5ea0c0a478e3fdf/artifacts
+end_time: 1734343369394
+entry_point_name: ''
+experiment_id: '805406121781784106'
+lifecycle_stage: active
+run_id: 0861130e00974722a5ea0c0a478e3fdf
+run_name: receptive-gnu-775
+run_uuid: 0861130e00974722a5ea0c0a478e3fdf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734342525758
+status: 3
+tags: []
+user_id: 'no'

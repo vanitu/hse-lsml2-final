@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/805406121781784106/8a1434e0f052493eab83628073a7974f/artifacts
+end_time: 1734342524673
+entry_point_name: ''
+experiment_id: '805406121781784106'
+lifecycle_stage: active
+run_id: 8a1434e0f052493eab83628073a7974f
+run_name: thundering-shad-108
+run_uuid: 8a1434e0f052493eab83628073a7974f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734341892179
+status: 3
+tags: []
+user_id: 'no'

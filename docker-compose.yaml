@@ -1,5 +1,3 @@
-version: "3.7"
-
 services:
   mlflow:
     build: mlflow
@@ -11,3 +9,8 @@ services:
     build: web_app
     ports:
       - 8501:8501
+    develop:  
+      watch:
+        - action: rebuild
+          path: ./web_app
+          target: app.py

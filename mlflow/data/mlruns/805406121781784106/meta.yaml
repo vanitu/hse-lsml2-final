@@ -1,0 +1,6 @@
+artifact_location: mlflow-artifacts:/805406121781784106
+creation_time: 1734295692503
+experiment_id: '805406121781784106'
+last_update_time: 1734295692503
+lifecycle_stage: active
+name: damage_detection_yolo
