@@ -58,29 +58,29 @@ root
 ## MLFlow
 
 **MlFlow runs**
-![runs](screenshots\mlflow_runs.png)
+![runs](screenshots/mlflow_runs.png)
 
 **MlFlow runs**
-![metrics](screenshots\mlflow_run_mterics_charts.png)
+![metrics](screenshots/mlflow_run_mterics_charts.png)
 
 **MlFlow Pr-Recall**
-![pr-recall](screenshots\pr-rec-curve.png)
+![pr-recall](screenshots/pr-rec-curve.png)
 
 **MlFlow models**
 
-![Models](screenshots\mlflow_models.png)
+![Models](screenshots/mlflow_models.png)
 
 **MlFlow training**
 
-![Training](screenshots\training_process.png)
+![Training](screenshots/training_process.png)
 
 ## WebApplication
 
 **Landing Page**
-![WebAppLanding](screenshots\webapp_landing.png)
+![WebAppLanding](screenshots/webapp_landing.png)
 
 **Processing Page**
-![WebAppLanding](screenshots\webapp_working.png)
+![WebAppLanding](screenshots/webapp_working.png)
 
 **Inference Result**
-![WebAppLanding](screenshots\webapp_results.png)
+![WebAppLanding](screenshots/webapp_results.png)
